@@ -4,6 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "devDependencies": {
+    "@firebase/testing": "^0.13.0",
     "filesystem": "^1.0.1",
     "jest": "^24.9.0",
     "ts-jest": "^24.0.2",
